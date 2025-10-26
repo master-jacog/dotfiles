@@ -1,0 +1,4 @@
+[ "$TERM" = "xterm-kitty" ] && alias ssh="kitty +kitten ssh"
+
+
+xterm-color|*-256color|xterm-kitty) color_prompt=yes;;
